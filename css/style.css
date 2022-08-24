@@ -29,7 +29,7 @@ body {
 }
 
 .benefit__text {
-    margin: 0;
+    margin: 0 auto;
     width: 175px;
     font-size: 18px;
     line-height: 24px;
@@ -38,4 +38,20 @@ body {
 
 .benefit {
     width: 201px;
+}
+
+.benefit__image-container {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    width: 120px;
+    height: 120px;
+    margin-bottom: 30px;
+}
+
+.benefit__image {
+    display: block;
+    margin: 0 auto;
 }
