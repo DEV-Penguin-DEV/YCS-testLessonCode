@@ -3,7 +3,6 @@ body {
 }
 
 .main-page {
-    
     background-color: #F8F9FB;
     color: #010F32;
 }
@@ -11,11 +10,13 @@ body {
 .main-page__container {
     max-width: 1065px;
     margin: 0 auto;
+    padding: 80px 0 45px 0;
 }
 
 .main-page__title {
     text-align: center;
     margin: 0;
+    margin-bottom: 60px;
     font-weight: 400;
     font-size: 38px;
     line-height: 36px;
@@ -24,10 +25,12 @@ body {
 .main-page__benefits-list {
     list-style: none;
     display: flex;
+    justify-content: space-between;
 }
 
 .benefit__text {
     margin: 0;
+    width: 175px;
     font-size: 18px;
     line-height: 24px;
     text-align: center;
