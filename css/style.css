@@ -4,6 +4,7 @@ body {
 
 .main-page {
     background-color: #F8F9FB;
+    color: #010F32;
 }
 
 .main-page__title {
@@ -11,16 +12,19 @@ body {
     font-weight: 400;
     font-size: 38px;
     line-height: 36px;
-    color: #010F32;
 }
 
 .main-page__benefits-list {
     list-style: none;
+    display: flex;
 }
 
 .benefit__text {
     margin: 0;
     font-size: 18px;
     line-height: 24px;
-    color: #010F32;
+}
+
+.benefit {
+    width: 201px;
 }
