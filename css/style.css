@@ -39,3 +39,6 @@ body {
 .benefit {
     width: 201px;
 }
+.benefit__image-container {
+    margin-bottom: 30px;
+}
