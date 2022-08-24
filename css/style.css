@@ -1,3 +1,26 @@
 body {
-    background-color: orange;
+    margin: 0;
+}
+
+.main-page {
+    background-color: #F8F9FB;
+}
+
+.main-page__title {
+    margin: 0;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 36px;
+    color: #010F32;
+}
+
+.main-page__benefits-list {
+    list-style: none;
+}
+
+.benefit__text {
+    margin: 0;
+    font-size: 18px;
+    line-height: 24px;
+    color: #010F32;
 }
