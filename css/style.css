@@ -2,18 +2,18 @@ body {
     margin: 0;
 }
 
-.main-page {
+.benefits-block {
     background-color: #F8F9FB;
     color: #010F32;
 }
 
-.main-page__container {
+.benefits-block__container {
     max-width: 1065px;
     margin: 0 auto;
     padding: 80px 0 45px 0;
 }
 
-.main-page__title {
+.benefits-block__title {
     text-align: center;
     margin: 0;
     margin-bottom: 60px;
@@ -22,7 +22,7 @@ body {
     line-height: 36px;
 }
 
-.main-page__benefits-list {
+.benefits-block__benefits-list {
     list-style: none;
     display: flex;
     justify-content: space-between;
