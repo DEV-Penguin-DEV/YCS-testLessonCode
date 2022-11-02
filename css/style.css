@@ -2,11 +2,11 @@ body {
     margin: 0;
 }
 
-.main-page {
+.benefits-block {
     background-color: #F8F9FB;
 }
 
-.main-page__title {
+.benefits-block__title {
     margin: 0;
     font-weight: 400;
     font-size: 38px;
@@ -14,7 +14,7 @@ body {
     color: #010F32;
 }
 
-.main-page__benefits-list {
+.benefits-block__benefits-list {
     list-style: none;
 }
 
