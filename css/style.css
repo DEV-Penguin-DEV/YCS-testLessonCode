@@ -2,19 +2,19 @@ body {
     margin: 0;
 }
 
-.main-page {
+.benefits-block {
     background-color: #F8F9FB;
     color: #010F32;
 }
 
-.main-page__title {
+.benefits-block__title {
     margin: 0;
     font-weight: 400;
     font-size: 38px;
     line-height: 36px;
 }
 
-.main-page__benefits-list {
+.benefits-block__benefits-list {
     list-style: none;
     display: flex;
 }
