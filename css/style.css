@@ -55,3 +55,9 @@ body {
     display: block;
     margin: 0 auto;
 }
+
+.benefit__image-container:hover {
+    background-color: red;
+    border-radius: 50%;
+    transform: translateX(100px);
+}
