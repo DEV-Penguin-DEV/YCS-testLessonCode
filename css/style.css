@@ -1,64 +1,46 @@
 body {
-    margin: 0;
+  margin: 0;
 }
 
 .benefits-block {
-    background-color: #F8F9FB;
-    color: #010F32;
+  background-color: #f8f9fb;
+  color: #010f32;
 }
 
 .benefits-block__container {
-    max-width: 1065px;
-    margin: 0 auto;
-    padding: 80px 0 45px 0;
+  max-width: 1065px;
+  margin: 0 auto;
+  padding: 80px 0 45px 0;
 }
 
 .benefits-block__title {
-    text-align: center;
-    margin: 0;
-    margin-bottom: 60px;
-    font-weight: 400;
-    font-size: 38px;
-    line-height: 36px;
+  text-align: center;
+  margin: 0;
+  margin-bottom: 60px;
+  font-weight: 400;
+  font-size: 38px;
+  line-height: 36px;
 }
 
 .benefits-block__benefits-list {
-    list-style: none;
-    display: flex;
-    justify-content: space-between;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
 }
 
 .benefit__text {
-    margin: 0 auto;
-    width: 175px;
-    font-size: 18px;
-    line-height: 24px;
-    text-align: center;
+  margin: 0 auto;
+  width: 175px;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: center;
 }
 
 .benefit {
-    width: 201px;
-}
-
-.benefit__image-container {
-    display: flex;
-    align-items: center;
-    margin: 0 auto;
-    background-color: #ffffff;
-    border-radius: 15px;
-    width: 120px;
-    height: 120px;
-    margin-bottom: 30px;
+  width: 201px;
 }
 
 .benefit__image {
-    display: block;
-    margin: 0 auto;
-}
-
-.benefit__image-container:hover {
-    transition: 1s;
-    border-radius: 50%;
-    background-color: yellow;
-    transform: scale(1.2);
+  display: block;
+  margin: 0 auto;
 }
